@@ -33,3 +33,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Project Implementation:
 The project's implementation involves designing and deploying scalable data pipelines using AWS Glue for ETL, storing data in Amazon S3, and performing ad-hoc queries with AWS Athena. Python and PySpark are utilized for data processing tasks, ensuring efficient transformation and analysis. Finally, insights are visualized and reported using Amazon QuickSight, facilitating data-driven decision-making.
+
+
+![Untitled-2024-03-27-1541](https://github.com/panchiwalashivani/YouTube_Data_Analysis_AWS/assets/72301600/d00240d2-8ace-46ba-8130-7b72892f5894)
+
