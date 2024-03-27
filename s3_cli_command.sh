@@ -4,7 +4,7 @@ aws s3 cp . s3://youtube-data-analysis-raw-useast1/youtube/raw_statistics_refere
 # To copy all data files to its own location, following Hive-style patterns:
 aws s3 cp CAvideos.csv s3://youtube-data-analysis-raw-useast1/youtube/raw_statistics/region=ca/
 aws s3 cp DEvideos.csv s3://youtube-data-analysis-raw-useast1/youtube/raw_statistics/region=de/
-aws s3 cp FRvideos.csv s3://youtube-data-analysis-raw-useast1/raw_statistics/region=fr/
+aws s3 cp FRvideos.csv s3://youtube-data-analysis-raw-useast1/youtube/raw_statistics/region=fr/
 aws s3 cp GBvideos.csv s3://youtube-data-analysis-raw-useast1/youtube/raw_statistics/region=gb/
 aws s3 cp INvideos.csv s3://youtube-data-analysis-raw-useast1/youtube/raw_statistics/region=in/
 aws s3 cp JPvideos.csv s3://youtube-data-analysis-raw-useast1/youtube/raw_statistics/region=jp/
