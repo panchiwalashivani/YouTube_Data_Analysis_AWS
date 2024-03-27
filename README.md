@@ -5,17 +5,26 @@ This project is dedicated to managing, processing, and analyzing YouTube video d
 
 ## Project Goals:
 Data Ingestion: Develop robust mechanisms to ingest data from diverse sources, ensuring seamless integration into our analytics pipeline.
+
 ETL System: Implement a comprehensive Extract, Transform, Load (ETL) system to preprocess raw data into a structured format conducive to analysis.
+
 Data Lake Establishment: Create a centralized data repository utilizing Amazon S3, allowing scalable storage and easy accessibility for analysis.
+
 Scalability: Architect the system to scale effortlessly with the growing volume of data, ensuring consistent performance and reliability.
+
 Cloud Integration: Utilize AWS services including AWS Glue, AWS Lambda, and AWS Athena to harness the power of the cloud for data processing and analysis.
+
 Reporting and Visualization: Develop intuitive dashboards using Amazon QuickSight, empowering stakeholders to derive actionable insights from the data.
 
 ## Services Utilized:
 Amazon S3: Object storage service providing durability, scalability, and security for our data lake.
+
 AWS Glue: Serverless data integration service for automated ETL workflows and schema discovery.
+
 AWS Lambda: Compute service for executing code in response to events, facilitating serverless data processing.
+
 AWS Athena: Interactive query service enabling ad-hoc querying of data stored in Amazon S3 without the need for infrastructure management.
+
 Amazon QuickSight: Cloud-native business intelligence service for interactive visualization and insightful reporting.
 
 ## Dataset:
